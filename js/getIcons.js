@@ -61,34 +61,14 @@ const icons = [
     imgTitle: "Bootstrap",
   },
   {
-    imgSrc: "assets/icons/heroicons.png",
-    imgAlt: "Heroicons",
-    imgTitle: "Heroicons",
-  },
-  {
     imgSrc: "assets/icons/react.png",
     imgAlt: "React.js",
     imgTitle: "React.js",
   },
   {
-    imgSrc: "assets/icons/react-icons.png",
-    imgAlt: "React icons",
-    imgTitle: "React icons",
-  },
-  {
-    imgSrc: "assets/icons/reactRouter.png",
-    imgAlt: "React Router",
-    imgTitle: "React Router",
-  },
-  {
     imgSrc: "assets/icons/next.png",
     imgAlt: "Next",
     imgTile: "Next",
-  },
-  {
-    imgSrc: "assets/icons/debian.png",
-    imgAlt: "Debian",
-    imgTitle: "Debian",
   },
   {
     imgSrc: "assets/icons/terminal.png",
@@ -109,16 +89,6 @@ const icons = [
     imgSrc: "assets/icons/mysql.png",
     imgAlt: "MySQL",
     imgTitle: "MySQL",
-  },
-  {
-    imgSrc: "assets/icons/composer.png",
-    imgAlt: "Composer",
-    imgTitle: "Composer",
-  },
-  {
-    imgSrc: "assets/icons/laravel.png",
-    imgAlt: "Laravel",
-    imgTitle: "Laravel",
   },
 ];
 
