@@ -86,9 +86,9 @@ const icons = [
     imgTile: "Next",
   },
   {
-    imgSrc: "assets/icons/locOS.png",
-    imgAlt: "LOC-OS",
-    imgTitle: "LOC-OS",
+    imgSrc: "assets/icons/debian.png",
+    imgAlt: "Debian",
+    imgTitle: "Debian",
   },
   {
     imgSrc: "assets/icons/terminal.png",
