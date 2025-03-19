@@ -66,11 +66,6 @@ const icons = [
     imgTitle: "React.js",
   },
   {
-    imgSrc: "assets/icons/next.png",
-    imgAlt: "Next",
-    imgTile: "Next",
-  },
-  {
     imgSrc: "assets/icons/terminal.png",
     imgAlt: "Terminal",
     imgTitle: "Terminal",
