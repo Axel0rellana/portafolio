@@ -1,7 +1,7 @@
 # Portafolio
 
 Repositorio de mi portafolio como desarrollador _FrontEnd_ donde subiré
-mis proyectosssssss
+mis proyectos
 
 ---
 
