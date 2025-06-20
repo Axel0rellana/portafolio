@@ -138,7 +138,7 @@ export const contactForm = () => {
       loader.style.display = "flex";
       formButton.classList.remove("active");
 
-      fetch("https://formsubmit.co/ajax/axlto@hotmail.com", {
+      fetch("https://formsubmit.co/ajax/axelorellana550@gmail.com", {
         method: "POST",
         body: new FormData(e.target),
       })
